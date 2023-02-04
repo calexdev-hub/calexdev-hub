@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="banner.jpg" alt="exemplo imagem">
 
-<!--
-**carlosalexandredev/carlosalexandredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Carlos Alexandre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Java
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alexandre-002E74?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosalexandredev/)](https://www.linkedin.com/in/carlosalexandredev/) 
+[![Gmail Badge](https://img.shields.io/badge/-carlosalexandre5670@gmail.com-002E74?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosalexandre5670@gmail.com)](mailto:carlosalexandre5670@gmail.com)
+
+Eu sou Bacharel em Sistemas de Informações e trabalho atualmente como desenvolvedor back-end Java. Possuo vivencia em metodologias ágeis, como Scrum, o que permite trabalhar de forma eficiente em equipes para entregar projetos de qualidade dentro do prazo. 
+
+Tenho exeperiência em API Rest, mensageria, Java EE, SpringBoot, banco de dados Oracle/SQLServer e Docker. 
+
+Além disso, uma paixão por computação gráfica.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalexandredev&show_icons=true&theme=default )
+
+<img src="banner.jpg" alt="exemplo imagem">
