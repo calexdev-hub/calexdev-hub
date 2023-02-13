@@ -15,6 +15,20 @@ Tenho exeperiência em API Rest, mensageria, Java EE, SpringBoot, banco de dados
 
 Além disso, uma paixão por computação gráfica.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalexandredev&show_icons=true&theme=default )
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalexandredev&layout=compact&theme=default"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=carlosalexandredev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=default"
+    />
+  </a>
+</p>
 
 <img src="bannerbottom.png" alt="exemplo imagem">
