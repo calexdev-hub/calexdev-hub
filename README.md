@@ -1,20 +1,19 @@
-<img src="bannertop.png" alt="banner top">
+<img src="bannertopv2.png" alt="banner top">
 
 
 # Carlos Alexandre
 
-**Desenvolvedor Java ☕**
+**FullStack Developer ☕︎**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alexandre-002E74?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosalexandredev/)](https://www.linkedin.com/in/carlosalexandredev/) 
-[![Gmail Badge](https://img.shields.io/badge/-carlosalexandredev.contato@gmail.com-002E74?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosalexandredev.contato@gmail.com)](mailto:carlosalexandredev.contato@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alexandre-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calexdev/)](https://www.linkedin.com/in/calexdev/) 
+[![Gmail Badge](https://img.shields.io/badge/-calexdev.contact@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:calexdev.contact@gmail.com)](mailto:calexdev.contact@gmail.com)
 
+I hold a Bachelor's degree in Information Systems and currently work as a Java back-end developer. I have hands-on experience with agile methodologies such as Scrum, enabling me to collaborate effectively in teams and deliver high-quality projects on time.
 
-Eu sou Bacharel em Sistemas de Informações e trabalho atualmente como desenvolvedor back-end Java. Possuo vivencia em metodologias ágeis, como Scrum, o que permite trabalhar de forma eficiente em equipes para entregar projetos de qualidade dentro do prazo. 
+My technical background includes expertise in RESTful APIs, messaging systems, Java EE, Spring Boot, Oracle and SQL Server databases, and Docker.
 
-Tenho exeperiência em API Rest, mensageria, Java EE, SpringBoot, banco de dados Oracle/SQLServer e Docker. 
+In addition, I have a strong personal interest in computer graphics.
 
-Além disso, uma paixão por computação gráfica.
+<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calexdev-hub&langs_count=8)](https://github.com/calexdev-hub/github-readme-statsl" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosalexandredev&show_icons=true&theme=default&count_private=true&hide=issues"/>
-
-<img src="bannerbottom.png" alt="exemplo imagem">
+<img src="bannerbottomv2.png" alt="exemplo imagem">
